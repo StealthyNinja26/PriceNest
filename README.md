@@ -1,4 +1,4 @@
-# 🏠 Ireland House Price Analysis & Prediction
+# 🏠 PriceNest
 
 This project is a comprehensive data science portfolio piece focused on analyzing and predicting house prices across Ireland using real-world data. Leveraging a 2024 housing dataset from Kaggle, it applies exploratory data analysis (EDA), classification, regression, and a user-friendly Streamlit application to showcase the insights and predictions. The aim is to provide both technical and practical value in understanding property trends and forecasting home values using machine learning.
 
